@@ -23,40 +23,22 @@ Basic terminology
 
 From Physics
 ============
-* = <**186,000**> mps (miles per second)
+* = <**186,282**> mps (miles per second)
 * = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
 ===========================
-Assuming electronic waves move through wire at speed of light: Speed of electronic signal through a wire:
-* In one nanosecond = <**0.007614732029**> inches (299,792*1/0.039370*1/1000000000)
-* In one microsecond = <**0.6345610025**> feet (0.007614732029/12*1000)
-* In one millisecond = <**0.120182008**> miles  (0.6345610025/5280*1000)
+* In one nanosecond = <**11.80282752**> inches (299,792/0.039370/1000000000)
+* In one microsecond = <**983.56896**> feet (0.007614732029/12*1000)
+* In one millisecond = <**186.282**> miles  (186282/1000)
 * In one second = <**186282**> miles
 * In one second = <**7.48**> times around the Earth!
 
-From our World of Processors
-============================
-
-One last piece of the puzzle. I would like to see if you can figure out how
-fast a signal moves between transistors in a typical Pentium processor. To
-figure that out, we need to figure out how far apart they are. We will keep
-this simple.
-
-We will look at numbers for the Intel Haswell line of processors.
-Unfortunately, most manufacturers use the metric system to report how big (or
-small) things are, so all of the numbers in this section will be in meters (or
-smaller). 
-
-Dig out data for the Haswell Processor. Specifically, use this version:
-
-    * Haswell GT2 4C chip
-
-        * Manufacturing Process = <??>nm
-
-        * Transistor Count = <??> transistors
-
-        * Die Size: <??>mm^2
+World of Processors:Haswell GT2 4C chip
+=======================================
+* Manufacturing Process = <**22**>nm
+* Transistor Count = <**1.4B**> transistors
+* Die Size: <**177**>mm^2
 
 Assuming that the chip is square, and that there are 1,400,000,000 transistors
 on the chip, we can take the square-root of 1.4 billion to see how many
@@ -93,36 +75,12 @@ number the counter can hold (it is 64-bits wide):
 References
 **********
 -*http://www.onlineconversion.com/length_common.htm*
+
 -*https://en.wikipedia.org/wiki/Yotta-*
+
 -*www.google.com, direct*
+
 -*https://en.wikipedia.org/wiki/Speed_of_light*
 
-What to turn in
-***************
+-*http://www.anandtech.com/show/7003/the-haswell-review-intel-core-i74770k-i54560k-tested/5*
 
-Use this guide to help you format your homework:
-
-    * `reStructuredText Quick Start
-      <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_.
-
-You will write this up using your programming editor of choice. Make sure your
-file ends with en extension of `.rst` when you add this work to your homework
-project on the class GitLab_ server.
-
-When you have uploaded your file to the GitLab_ server, check out the file
-using your web browser. It will be formatted so it looks like a nice web page.
-Do not get carried away with this for now. This markup language is designed to
-be simple to learn and use, and it leaves your text file readable, even without
-processing. As long as the file ends with a `.rst` extension, GitLab_ will
-automatically convert the page to HTML so it looks nice in your browser.
-
-I want YOU to be proud of the quality of your work! Using good tools will help
-you get to this point!
-
-reStructuredText_ is rapidly becoming a standard in documenting software
-projects. While it was originally developed to document Python language, it is
-increasingly being used elsewhere. The tool most often used to process
-documentation for large projects is Python Sphinx_. We will take a look at this
-tool a bit later in the course.
-
-..  vim:filetype=rst spell
