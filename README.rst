@@ -1,9 +1,7 @@
-..  _HW2:
 
 HW2: Time for a Time Out!
 #########################
 
-..  include:: /references.inc
 
 We need to understand some time sensitive terminology, and get a feel for
 speed!
