@@ -1,13 +1,13 @@
 
-HW2: Time for a Time Out!
+HW2: Time for a Time Out!::
 #########################
 
 Basic measurement units:
 ========================
-- 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
+- 1 meter = <**39.370**> inches (*http://www.onlineconversion.com/length_common.htm*)
 - 1 mile = <**5280**> feet 
 - 1 mile = <**1609**> meters
-- Circumference of the Earth = <**24,901**> miles (*www.google.com*, direct)
+- Circumference of the Earth = <**24,901**> miles (*www.google.com, direct*)
 
 Basic terminology
 =================
@@ -24,7 +24,7 @@ From Physics
 ============
 * What is the speed of light 
 * = <**186,000**> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
-* = <**299,792**> kps ("kilometers per second")
+* = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
 ===========================
