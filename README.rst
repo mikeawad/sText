@@ -6,13 +6,13 @@ HW2: Time for a Time Out!
 Basic measurement units:
 ========================
 
-    "-" 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
+- 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
 
-    - 1 mile = <**5280**> feet 
+- 1 mile = <**5280**> feet 
       
-    - 1 mile = <**1609**> meters
+- 1 mile = <**1609**> meters
 
-    - Circumference of the Earth = <**24,901**> miles (www.google.com)
+- Circumference of the Earth = <**24,901**> miles (www.google.com)
 
 
 Basic terminology
