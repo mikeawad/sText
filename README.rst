@@ -6,7 +6,7 @@ HW2: Time for a Time Out!
 Basic measurement units:
 ========================
 
-    - 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
+    "-" 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
 
     - 1 mile = <**5280**> feet 
       
