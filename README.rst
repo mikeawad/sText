@@ -3,43 +3,6 @@ HW2: Time for a Time Out!
 #########################
 
 
-We need to understand some time sensitive terminology, and get a feel for
-speed!
-
-In this homework, you are going to see just how fast things move inside your
-system. To make sense of this, you will do a bit of research on the Internet to
-come up with the numbers. 
-
-How to do this homework
-***********************
-
-To complete this homework, you will need to dig some numbers out from the Web,
-and calculate other numbers. For each number you use as an answer, I want a
-reference (URL) showing where you found the information, or the expression you
-evaluated with the calculator (something like 5280*12). Show that information
-in parentheses after your answer. If you get several answers from a single
-reference, include that reference only once.
-
-Some background
-***************
-
-First, it is important to understand that our computers are driven by
-electricity, which you might think of as the flow of electrons through wires.
-Actually, it is the movement of an electromagnetic wave that is important, not
-the movement of electrons themselves. In doing your research, you might
-discover that electrons do not move much, but those waves really fly! 
-
-What You Need to Determine
-**************************
-
-..  warning::
-
-    You will need a calculator to do this work, in addition to data from the
-    Web!
-
-Here are the pieces of information I want you to locate. You need to fill in
-the places where `<??>` is shown below:
-
 Basic measurement units:
 ========================
 
