@@ -6,13 +6,13 @@ HW2: Time for a Time Out!
 Basic measurement units:
 ========================
 
-    * 1 meter = <39.370> inches (http://www.onlineconversion.com/length_common.htm)
+    * 1 meter = <**39.370**> inches (http://www.onlineconversion.com/length_common.htm)
 
-    * 1 mile = <5280> feet 
+    * 1 mile = <**5280**> feet 
       
-    * 1 mile = <1609> meters
+    * 1 mile = <**1609**> meters
 
-    * Circumference of the Earth = <24,901> miles (www.google.com)
+    * Circumference of the Earth = <**24,901**> miles (www.google.com)
 
 
 Basic terminology
@@ -21,32 +21,30 @@ Basic terminology
 We prefix numbers in the world of science with some basic terms. Determine what
 these mean: 
 
-    * `yotta` something = <100000000000000000000000> times something (https://en.wikipedia.org/wiki/Yotta-)
+    * `yotta` something = <**100000000000000000000000**> times something (https://en.wikipedia.org/wiki/Yotta-)
     
-    * `kilo` something = <1000> times something
+    * `kilo` something = <**1000**> times something
 
-    * <hecto> something = 100 times something
+    * <**hecto**> something = 100 times something
     
-    * <deca> something = 10 times something
+    * <**deca**> something = 10 times something
 
-    * something = something (duh!)
+    * `milli` something = 1/<**1000**> of something
 
-    * `milli` something = 1/<1000> of something
+    * `micro` something = 1/<**1000000**> of something
 
-    * `micro` something = 1/<1000000> of something
+    * `nano` something = 1/<**1000000000**> of something
 
-    * `nano` something = 1/<1000000000> of something
-
-    * <pico>something = 1/1000000000000 of something
+    * <**pico**>something = 1/1000000000000 of something
 
 From Physics
 ============
 
 * What is the speed of light 
   
-    * = <186,000> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
+    * = <**186,000**> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
 
-    * = <299,792> kps (kilometers per second)
+    * = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
 ===========================
