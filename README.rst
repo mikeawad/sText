@@ -22,8 +22,7 @@ Basic terminology
 
 From Physics
 ============
-* What is the speed of light 
-* = <**186,000**> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
+* = <**186,000**> mps (miles per second)(*https://en.wikipedia.org/wiki/Speed_of_light*)
 * = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
