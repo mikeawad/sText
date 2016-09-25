@@ -2,7 +2,6 @@
 HW2: Time for a Time Out! 
 #########################
 .. Mike Awad
-&&&&&&&&&&&&
 
 Basic measurement units:
 ========================
@@ -29,19 +28,12 @@ From Physics
 
 Speed of Electronic Signals
 ===========================
-Assuming electronic waves move through wire at the speed of light:
-
-* How far an electronic signal can move through a wire:
-
-    * In one nanosecond = <??> inches (299,792*1/1000000000*
-
-    * In one microsecond = <??> feet
-
-    * In one millisecond = <??> miles
-    
-    * In one second = <??> miles
-
-    * In one second = <??> times around the Earth!
+Assuming electronic waves move through wire at speed of light: Speed of electronic signal through a wire:
+* In one nanosecond = <**0.007614732029**> inches (299,792*1/0.039370*1/1000000000)
+* In one microsecond = <**0.6345610025**> feet (0.007614732029/12*1000)
+* In one millisecond = <**0.120182008**> miles  (0.6345610025/5280*1000)
+* In one second = <**186282**> miles
+* In one second = <**7.48**> times around the Earth!
 
 From our World of Processors
 ============================
