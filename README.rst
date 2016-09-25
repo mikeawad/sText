@@ -4,14 +4,14 @@ HW2: Time for a Time Out!::
 
 Basic measurement units:
 ========================
-- 1 meter = <**39.370**> inches (*http://www.onlineconversion.com/length_common.htm*)
+- 1 meter = <**39.370**> inches 
 - 1 mile = <**5280**> feet 
 - 1 mile = <**1609**> meters
-- Circumference of the Earth = <**24,901**> miles (*www.google.com, direct*)
+- Circumference of the Earth = <**24,901**> miles 
 
 Basic terminology
 =================
-* `yotta` something = <**100000000000000000000000**> times something (*https://en.wikipedia.org/wiki/Yotta-*)
+* `yotta` something = <**100000000000000000000000**> times something 
 * `kilo` something = <**1000**> times something
 * <**hecto**> something = 100 times something
 * <**deca**> something = 10 times something
@@ -22,7 +22,7 @@ Basic terminology
 
 From Physics
 ============
-* = <**186,000**> mps (miles per second)(*https://en.wikipedia.org/wiki/Speed_of_light*)
+* = <**186,000**> mps (miles per second)
 * = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
@@ -98,8 +98,10 @@ number the counter can hold (it is 64-bits wide):
 
 References
 **********
-
-Remember to include documentation on your sources.
+-*http://www.onlineconversion.com/length_common.htm*
+-*https://en.wikipedia.org/wiki/Yotta-*
+-*www.google.com, direct*
+-*https://en.wikipedia.org/wiki/Speed_of_light*
 
 What to turn in
 ***************
