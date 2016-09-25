@@ -1,8 +1,7 @@
 
 HW2: Time for a Time Out! 
 #########################
-
-.. warning::
+.. Mike Awad
 
 Basic measurement units:
 ========================
