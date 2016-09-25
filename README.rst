@@ -49,18 +49,6 @@ signal to move the distance between two adjacent transistors.
 
     * time for a signal to move between transistors = <??> picoseconds
 
-As a check (ballpark, at least), see if your calculations match the
-manufacturer's current technology. They report their ability to squeeze
-transistors together in nanometers. Are your numbers close?
-
-..  note::
-
-    Remember that there must be room for all the "wires", actually called
-    traces, needed to move signals from one place to another. So, it might seem
-    like there is plenty of room left for that, in actual fact, we are reaching
-    the limits on how small we can manufacture things. That is, unless we come
-    up with a new technology!
-
 Counting up
 ***********
 
