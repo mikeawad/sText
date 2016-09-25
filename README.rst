@@ -18,33 +18,29 @@ Basic measurement units:
 Basic terminology
 =================
 
-We prefix numbers in the world of science with some basic terms. Determine what
-these mean: 
-
-    * `yotta` something = <**100000000000000000000000**> times something (https://en.wikipedia.org/wiki/Yotta-)
+* `yotta` something = <**100000000000000000000000**> times something (https://en.wikipedia.org/wiki/Yotta-)
     
-    * `kilo` something = <**1000**> times something
+* `kilo` something = <**1000**> times something
 
-    * <**hecto**> something = 100 times something
+* <**hecto**> something = 100 times something
     
-    * <**deca**> something = 10 times something
+* <**deca**> something = 10 times something
 
-    * `milli` something = 1/<**1000**> of something
+* `milli` something = 1/<**1000**> of something
 
-    * `micro` something = 1/<**1000000**> of something
+* `micro` something = 1/<**1000000**> of something
 
-    * `nano` something = 1/<**1000000000**> of something
+* `nano` something = 1/<**1000000000**> of something
 
-    * <**pico**>something = 1/1000000000000 of something
+* <**pico**>something = 1/1000000000000 of something
 
 From Physics
 ============
 
 * What is the speed of light 
   
-    * = <**186,000**> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
-
-    * = <**299,792**> kps (kilometers per second)
+* = <**186,000**> mps (miles per second)(https://en.wikipedia.org/wiki/Speed_of_light)
+* = <**299,792**> kps (kilometers per second)
 
 Speed of Electronic Signals
 ===========================
