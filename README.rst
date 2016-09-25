@@ -1,6 +1,8 @@
 
-HW2: Time for a Time Out!::
+HW2: Time for a Time Out! 
 #########################
+
+.. warning::
 
 Basic measurement units:
 ========================
